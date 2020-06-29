@@ -1,8 +1,8 @@
 # Memory Game Project
 
-this is memory games ... simply you win the games win you match all cards :)
+This is memory games ... simply you win the games win you match all cards :)
 
-## how to play
+## How to play
 
 1. open `index.html` file in your browser.
 1. start clicking on cards to show them.
