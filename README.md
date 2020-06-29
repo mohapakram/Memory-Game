@@ -1,18 +1,5 @@
+
 # Memory Game Project
-
-
-
-## How to play
-
-1. open `index.html` file in your browser.
-1. start clicking on cards to show them.
-
-## Dependencies
-1. bootstrap
-1. google fonts
-
-
-# Mint Signup Page Clone
 
 > This is a javascript memory game, you simply win the games when you match all cards.
 
@@ -22,9 +9,14 @@
 - Css,
 - JS
 
+## Dependencies
+1. Bootstrap
+1. Google Fonts
+
 ## Getting Started
 
-Open index.html file in your browser.
+1. open `index.html` file in your browser.
+1. start clicking on cards to show them.
 
 ## Authors
 
