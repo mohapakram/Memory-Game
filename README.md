@@ -10,7 +10,7 @@
 ## Built With
 
 - HTML,
-- Css,
+- CSS,
 - JS
 
 ## Dependencies
